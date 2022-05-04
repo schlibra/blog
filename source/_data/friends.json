@@ -1,0 +1,37 @@
+[
+    {
+        "avatar": "https://20j1.cn/img/logo.jpg",
+        "name": "20计1",
+        "introduction": "20计1班级官网",
+        "url": "https://20j1.cn",
+        "title": "前去参观"
+    },
+    {
+        "avatar": "https://xcgzs.cn/img/logo.jpg",
+        "name": "SCH的博客",
+        "introduction": "SCH的个人博客",
+        "url": "https://xcgzs.cn/",
+        "title": "前去参观"
+    },
+    {
+        "avatar": "https://josephz.top/image/joseph.png",
+        "name": "Joseph Z.",
+        "introduction": "Joseph Z.的博客",
+        "url": "https://josephz.top/",
+        "title": "前去参观"
+    },
+    {
+        "avatar": "https://pzks.github.io/img/favicon.png",
+        "name": "Pengzekai",
+        "introduction": "念念不忘，必有回响",
+        "url": "https://pzks.github.io/",
+        "title": "前去参观"
+    },
+    {
+        "avatar": "https://cqzhx-1302421102.file.myqcloud.com/wp-content/uploads/2022/05/favicon-1.ico",
+        "name": "某全小站",
+        "introduction":"某全小站",
+        "url": "https://cqzhx.top",
+        "title": "前去参观"
+    }
+]
