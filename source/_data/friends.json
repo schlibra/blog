@@ -14,24 +14,45 @@
         "title": "前去参观"
     },
     {
-        "avatar": "https://josephz.top/image/joseph.png",
-        "name": "Joseph Z.",
-        "introduction": "Joseph Z.的博客",
-        "url": "https://josephz.top/",
+    	"avatar": "/img/sean.jpg",
+    	"name": "Sean博客",
+    	"introduction": "Sean的博客",
+    	"url": "http://blog.ug",
+    	"title": "前去参观"
+    },
+    {
+        "avatar": "https://p.qlogo.cn/gh/289342702/289342702/640/",
+    	"name": "IURT组织主站",
+    	"introduction": "用户为本，科技向善",
+    	"url": "http://121.4.132.167/main",
+    	"title": "前去参观"
+    },
+    {
+        "avatar": "https://q1.qlogo.cn/g?b=qq&nk=3451860760&s=640",
+        "name": "chuzouXの博客",
+        "introduction": "愿你出走半生,归来仍是少年",
+        "url": "https://chuzoux.top/",
         "title": "前去参观"
     },
     {
-        "avatar": "https://pzks.github.io/img/favicon.png",
+        "avatar": "https://blog.tsinbei.com/favicon.ico",
+        "name": "清北博客",
+        "introduction": "一个高中生的个人博客，记录学生时代的生活，分享原创技术教程。",
+        "url": "https://blog.tsinbei.com",
+        "title": "前去参观"
+    },
+    {
+	    "avatar": "/img/pengzekai.jpg",
         "name": "Pengzekai",
         "introduction": "念念不忘，必有回响",
         "url": "https://pzks.github.io/",
         "title": "前去参观"
     },
     {
-        "avatar": "https://cqzhx-1302421102.file.myqcloud.com/wp-content/uploads/2022/05/favicon-1.ico",
-        "name": "某全小站",
-        "introduction":"某全小站",
-        "url": "https://cqzhx.top",
+        "avatar": "https://josephz.top/image/avatar.webp",
+        "name": "Joseph Z.",
+        "introduction": "Joseph Z.的博客",
+        "url": "https://josephz.top/",
         "title": "前去参观"
     }
 ]
