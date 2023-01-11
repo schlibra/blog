@@ -4,7 +4,7 @@
 
 # Site
 title: SCH的博客
-subtitle: ''
+subtitle: 'SCH的博客'
 description: 'SCH的博客'
 keywords:
 author: "SCH"
@@ -44,15 +44,15 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: false
-  line_number: true
-  auto_detect: false
+  enable: true
+  line_number: false
+  auto_detect: true
   tab_replace: ''
   wrap: true
-  hljs: false
+  hljs: true
 prismjs:
-  enable: true
-  preprocess: true
+  enable: false
+  preprocess: false
   line_number: true
   tab_replace: ''
 
@@ -151,6 +151,11 @@ hide_posts:
   # Add "noindex" meta tag to prevent hidden posts from being indexed by search engines
   noindex: true
 
+# hexo-admin authentification
+admin:
+  username: schlibra
+  password_hash: $2a$10$rXCGm7mjNU8FR0hyE6.1EuL6A.UmTsVe2SBin0bR76WB30K0SmjQO
+  secret: schlibra
 
 # PWA
 pwa:
