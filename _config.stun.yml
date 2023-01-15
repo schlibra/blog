@@ -89,21 +89,15 @@ menu_settings:
 # See: https://github.com/lavas-project/hexo-pwa/
 
 favicon:
-  small: /assets/favicon-16x16.png                   # 16x16 像素大小的图片
-  medium: /assets/favicon-32x32.png                  # 32x32 像素大小的图片
-  # ! ----------------------------------------------------------------------
-  # ! 下面的配置项默认没有启用，如果你不想麻烦，可以直接忽略。
-  # ! 想要启用，取消注释即可，但启用前必须准备好相应的图片或配置文件。
-  # ! ----------------------------------------------------------------------
-  apple_touch_icon: /assets/apple-touch-icon.png      # 180x180 像素大小的图片
+  small: /assets/favicon-16x16.png                   # 16x16 像素大小的图  
+  medium: /assets/favicon-32x32.png                  # 32x32 像素大小的图  # ! ----------------------------------------------------------------------
+  # ! 下面的配置项默认没有启用，如果你不想麻烦，可以直接忽略  # ! 想要启用，取消注释即可，但启用前必须准备好相应的图片或配置文件  # ! ----------------------------------------------------------------------
+  apple_touch_icon: /assets/apple-touch-icon.png      # 180x180 像素大小的图  
   safari_pinned_tab:
-    image: /assets/safari_painned_tab.svg                       # SVG 格式的图片
-    # 表示在 Mac OS 上的 Safari 浏览器中，固定的标签页被选中时，图标的颜色
-    # 表示在 MacBook 上的 Touch Bar 中，图标的背景颜色
+    image: /assets/safari_painned_tab.svg                       # SVG 格式的图    # 表示Mac OS 上的 Safari 浏览器中，固定的标签页被选中时，图标的颜   # 表示MacBook 上的 Touch Bar 中，图标的背景颜    
     color: "#54bcff"
   msapplication:
-    image: /assets/mstile-150x150.png               # 144x144 像素大小的图片
-    # 表示在 Windows 8/10 的开始菜单中，磁贴的背景颜色
+    image: /assets/mstile-150x150.png               # 144x144 像素大小的图    # 表示Windows 8/10 的开始菜单中，磁贴的背景颜色
     color: "#54bcff"
     config: /browserconfig.xml                       # 必须放在网站的根目录
 
@@ -156,7 +150,7 @@ header:
     # Whether to show on the article page.
     post: false
   # If you set a percentage, it will be calculated based on the height of screen (Supports all CSS units)
-  height: 80%
+  height: 40%
   # Background image of site header.
   bg_image:
     enable: true
@@ -169,10 +163,8 @@ header:
     # Effective for all pages.
     enable: true
     # You can override it by `header_title` in Front-Matter of .md
-    title: SCH的博客
-    # You can override it by `header_subtitle` in Front-Matter of .md
-    subtitle: 用心分享技术
-  # Mask effect of the background image.
+    title: SCH的博客    # You can override it by `header_subtitle` in Front-Matter of .md
+    subtitle: 用心分享技术  # Mask effect of the background image.
   mask:
     enable: true
     # Opacity of the mask (value: 0 ~ 1)
@@ -257,8 +249,7 @@ footer:
   # Beian information for Chinese users, see: http://www.miitbeian.gov.cn/
   beian:
     enable: false
-    # 备案 XXXXXXXX 号
-    icp:
+    
   # Any custom text (e.g. Hosted by <a href="https://pages.github.com/" rel="noopener" target="_blank">Github Pages</a>)
   custom:
     enable: false
@@ -339,10 +330,9 @@ social:
   # youtube: https://youtube.com/ || fab fa-youtube
   # segmentfault: https://segmentfault.com/ || origin:sf
   # weibo: https://weibo.com/5602160953 || fab fa-weibo
-  # zhihu: https://www.zhihu.com/ || origin:知
-  # wechat: yournumber || fab fa-weixin
+  # zhihu: https://www.zhihu.com/ || origin:  # wechat: yournumber || fab fa-weixin
   # telegram: yournumber || fab fa-telegram
-  qq: 3032441511|| fab fa-qq
+  qq: tencent://ContactInfo/?subcmd=ViewInfo&puin=0&uin=3032441511 || fab fa-qq
 
 social_setting:
   enable: true
@@ -428,7 +418,7 @@ post_meta:
   # Dependency: https://github.com/willin/hexo-wordcount/
   # !!! Don't enable this before install dependency by `npm install hexo-wordcount --save` in hexo root directory.
   reading_time:
-    enable: false
+    enable: true
     # Icon name in FontAwesome, see: https://fontawesome.com/icons
     icon: far fa-clock
     # Set reading speed to count reading time.
@@ -441,7 +431,7 @@ post_meta:
   # Dependency: https://github.com/willin/hexo-wordcount/
   # !!! Don't enable this before install dependency by `npm install hexo-wordcount --save` in hexo root directory.
   word_count:
-    enable: false
+    enable: true
     # Icon name in FontAwesome, see: https://fontawesome.com/icons
     icon: far fa-file-word
 
@@ -617,8 +607,7 @@ fbcomments:
   # The ID of your own Facebook App.
   appId:
   # See: https://developers.facebook.com/docs/internationalization#locales
-  # Example: en_US | zh_CN | zh_HK ... and so on. For detail, see: ☝
-  lang: en_US
+  # Example: en_US | zh_CN | zh_HK ... and so on. For detail, see:   lang: en_US
   # Number of comments displayed by default.
   numPosts: 10
   # See: https://developers.facebook.com/docs/plugins/comments#sorting
@@ -759,7 +748,7 @@ math:
 
 # Fancybox
 # See: https://fancyapps.com/fancybox/3/
-fancybox: false
+fancybox: true
 
 # Click to enlarge picture.
 zoom_image:
@@ -972,7 +961,7 @@ cdn:
   # Example:
   # valine: //cdn.jsdelivr.net/npm/valine@latest/dist/Valine.min.js
   # leancloud_storage: //cdn.jsdelivr.net/npm/leancloud-storage@latest/dist/av-min.js
-  valine:
+  valine: https://d.xcgzs.cn/fs/js/Valine/Valine.min.js
   leancloud_storage:
 
   # Waline
