@@ -6,6 +6,8 @@ date: 2023-01-13 16:27:34
 {% friends _data/organization.json %}
 ## 友情链接
 {% friends _data/friends.json %}
+## 临时下架
+{% friends _data/stop.json %}
 ## 添加友链
 网站链接：https://xcgzs.cn
 网站标题：SCH的博客
@@ -16,4 +18,6 @@ date: 2023-01-13 16:27:34
 **说明**
 请按照这个格式在评论区留言，审核后将被添加至列表，网站最好有SSL
 友链列表将定期检查，若长期无法访问将临时下架
+下架页面在修改后并可以访问，也请在下方留言
 {% endnote %}
+
