@@ -1,44 +1,56 @@
 [
-    {
-        "avatar": "https://20j1.cn/img/logo.jpg",
-        "name": "20计1",
-        "introduction": "20计1班级官网",
-        "url": "https://20j1.cn"
-    },
-    {
-        "avatar": "https://xcgzs.cn/img/logo.jpg",
-        "name": "SCH的博客",
-        "introduction": "SCH的个人博客",
-        "url": "https://xcgzs.cn/"
-    },
-    {
-    	"avatar": "/img/sean.jpg",
-    	"name": "Sean博客",
-    	"introduction": "Sean的博客",
-    	"url": "http://blog.ug"
-    },
-    {
-        "avatar": "https://q1.qlogo.cn/g?b=qq&nk=3451860760&s=640",
-        "name": "chuzouXの博客",
-        "introduction": "愿你出走半生,归来仍是少年",
-        "url": "https://chuzoux.top/"
-    },
-    {
-        "avatar": "https://blog.tsinbei.com/favicon.ico",
-        "name": "清北博客",
-        "introduction": "一个高中生的个人博客，记录学生时代的生活，分享原创技术教程。",
-        "url": "https://blog.tsinbei.com"
-    },
-    {
-	    "avatar": "/img/pengzekai.jpg",
-        "name": "Pengzekai",
-        "introduction": "念念不忘，必有回响",
-        "url": "https://pzks.github.io/"
-    },
-    {
-        "avatar": "https://josephz.top/image/avatar.webp",
-        "name": "Joseph Z.",
-        "introduction": "Joseph Z.的博客",
-        "url": "https://josephz.top/"
-    }
+  {
+    "avatar": "https://20j1.cn/img/logo.jpg",
+    "name": "20计1",
+    "introduction": "20计1班级官网",
+    "url": "https://20j1.cn"
+  },
+  {
+    "avatar": "https://xcgzs.cn/img/logo.jpg",
+    "name": "SCH的博客",
+    "introduction": "SCH的个人博客",
+    "url": "https://xcgzs.cn/"
+  },
+  {
+ 	  "avatar": "/img/sean.jpg",
+ 	  "name": "Sean博客",
+   	"introduction": "Sean的博客",
+    "url": "http://blog.ug"
+  },
+  {
+    "avatar": "https://blog.tsinbei.com/favicon.ico",
+    "name": "清北博客",
+    "introduction": "一个高中生的个人博客，记录学生时代的生活，分享原创技术教程。",
+    "url": "https://blog.tsinbei.com"
+  },
+  {
+    "avatar": "https://q1.qlogo.cn/g?b=qq&nk=3451860760&s=640",
+    "name": "chuzouXの博客",
+    "introduction": "愿你出走半生,归来仍是少年",
+    "url": "https://chuzoux.top/"
+  },
+  {
+    "avatar": "/img/pengzekai.jpg",
+    "name": "Pengzekai",
+    "introduction": "念念不忘，必有回响",
+    "url": "https://pzks.github.io/"
+  },
+  {
+    "avatar": "https://www.jamyido.top/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/11/logo_transparent.png",
+    "name": "JamYido社区",
+    "introduction": "给创作者一个社区",
+    "url": "https://www.jamyido.top"
+  },
+  {
+    "avatar": "http://blog.xtianteam.ml/img/favicon.png",
+    "name": "耀阳的博客",
+    "introduction": "耀阳的博客",
+    "url": "http://blog.xtianteam.ml"
+  },
+  {
+    "avatar": "https://josephz.top/image/avatar.webp",
+    "name": "Joseph Z.",
+    "introduction": "Joseph Z.的博客",
+    "url": "https://josephz.top/"
+  }
 ]
