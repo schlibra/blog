@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "b": "hexo clean && hexo generate --config _config-cn.yml && hexo generate --config _config-en.yml && touch public/index.html && mkdir public/404 && touch public/404/index.html",
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
