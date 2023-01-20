@@ -10,4 +10,5 @@ customNextPre:
   next:
     title: 深入浅出valine（三）编写代码
     path: https://xcgzs.cn/cn/article/41560/
+lang: cn-hide
 ---

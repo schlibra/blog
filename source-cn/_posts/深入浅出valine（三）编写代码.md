@@ -7,4 +7,5 @@ customNextPre:
   prev:
     title: 深入浅出valine（二）配置SDK
     path: https://xcgzs.cn/cn/article/34079/
+lang: cn-hide
 ---
