@@ -1,0 +1,123 @@
+# 网站标题
+title:
+  home: 首頁
+  archive: 歸檔
+  category: 分類
+  tag: 標籤
+banner:
+  title: SCH的博客
+  subtitle: 用心分享技術
+# 导航栏
+nav:
+  search: 搜索
+
+# 导航栏菜单
+menu:
+  home: 首頁
+  archives: 歸檔
+  categories: 分類
+  tags: 標籤
+  about: 關於
+  friends: 友情連結
+  i18n: 語言
+  cn: 简体中文
+  tw: 繁体中文
+  en: English
+  
+# 归档页、分类页、标签页
+page:
+  tags: 標籤
+  categories: 分類
+  posts-empty: 目前還沒有文章哦！
+  posts-total: 目前共計 %s 篇文章，繼續加油！
+
+# 侧边栏
+sidebar:
+  overview: 網站概覽
+  catalog: 文章目錄
+  subscribe: 訂閱
+  archives: 歸檔
+  categories: 分類
+  tags: 標籤
+  read_info: 你已閱讀了
+
+# 社交链接
+social:
+  github: Github
+  google: Google
+  twitter: Twitter
+  youtube: Youtube
+  segmentfault: 思否
+  zhihu: 知乎
+  weibo: 微博
+  wechat: 微信
+  telegram: Telegram
+  qq: QQ
+  gitee: Gitee
+
+# 文章
+post:
+  created: 發表於
+  updated: 更新於
+  word_count: 字數統計
+  reading_count: 閱讀次數
+  reading_time: 閱讀時長
+  reading_unit: 分
+  read_more: 阅读全文
+  sticky: 置顶文章
+  untitled: "[ 文章無標題 ]"
+  end: ------ 本文結束，感謝您的閱讀 ------
+  copyright:
+    author: 本文作者
+    link: 本文連結
+    license_title: 版權聲明
+    license_content: 本博客所有文章除特別聲明外，均採用 <a href="%s" rel="external nofollow" target="_blank">%s</a> 許可協定。 轉載請註明出處！
+
+# Algolia 搜索
+algolia_search:
+  input_placeholder: 搜索文章
+  hits_empty: '找不到任何搜尋結果：${query}'
+  hits_stats: '找到 ${hits} 條搜索結果，耗時 ${time} 毫秒'
+
+# 本地搜索
+local_search:
+  input_placeholder: 搜尋文章（支援多關鍵詞，請用空格分隔）
+  hits_empty: 沒有找到任何搜尋結果
+
+# 搜索的辅助按钮
+assist_search:
+  prompt_label: "使用搜索："
+  prompt_input: 請輸入字元
+  google: 谷歌
+  bing: 必應
+  baidu: 百度
+
+# 打赏
+reward:
+  btn_text: 請我喝杯咖啡~
+  alipay: 支付寶打賞
+  wechat: 微信打賞
+
+# 网站底部
+footer:
+  powered: 由 %s 強力驅動
+  theme: 主題
+  site_uv: 訪問人數
+  site_pv: 瀏覽總量
+
+# 提示信息
+prompt:
+  copy_success: 複製成功
+  copy_error: 複製失敗
+
+popover:
+  copy_button: 複製
+  creative_commons: 知識共用許可協定
+  post:
+    create_time: 發表時間
+    update_time: 修改時間
+    word_count: 字數統計
+    reading_time: 閱讀時間
+    visit_num: 閱讀次數
+  site_uv: 訪問人數
+  site_pv: 瀏覽總量
