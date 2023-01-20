@@ -50,11 +50,11 @@ sougou_site_verification:
 # Usage(No Icon)  : `Key: /link/`
 # Select your icon name, see: https://fontawesome.com/icons
 menu:
-  home: /en || fas fa-home
-  archives: /en/archives/ || fas fa-folder-open
-  categories: /en/categories/ || fas fa-layer-group
-  tags: /en/tags/ || fas fa-tags
-  friends: /en/friends/ || fas fa-address-book
+  home: /tw || fas fa-home
+  archives: /tw/archives/ || fas fa-folder-open
+  categories: /tw/categories/ || fas fa-layer-group
+  tags: /tw/tags/ || fas fa-tags
+  friends: /tw/friends/ || fas fa-address-book
   i18n: javascript:; || fas fa-globe
   # You can add a secondary menu like follow.
   # xxx1: javascript:; || fa(s|r|l|d|b) fa-xxx
@@ -162,14 +162,14 @@ header:
     # In theme directory (source/images): /images/avatar.png
     # In site directory (source/uploads): /uploads/avatar.png
     # You can also use a link of image.
-    url: /en/img/background.jpg
+    url: /cn/img/background.jpg
   # Banner area.
   banner:
     # Effective for all pages.
     enable: true
     # You can override it by `header_title` in Front-Matter of .md
-    title: SCH's Blog    # You can override it by `header_subtitle` in Front-Matter of .md
-    subtitle: Share technology with heart  # Mask effect of the background image.
+    title: SCH的博客    # You can override it by `header_subtitle` in Front-Matter of .md
+    subtitle: 用心分享技術  # Mask effect of the background image.
   mask:
     enable: true
     # Opacity of the mask (value: 0 ~ 1)
@@ -311,7 +311,7 @@ author:
     # In theme directory (source/images): /images/avatar.png
     # In site directory (source/uploads): /uploads/avatar.png
     # You can also use a link of image.
-    url: /en/img/logo.jpg
+    url: /cn/img/logo.jpg
     # If true, the avatar would be displayed in a circle.
     rounded: true
     # Opacity of avatar (value: 0 ~ 1)
@@ -369,7 +369,7 @@ feed:
   # Enter the rss address of you set (e.g. /atom.xml)
   # Dependency: https://github.com/hexojs/hexo-generator-feed/
   # !!! Don't enable this before install dependency by `npm install hexo-generator-feed --save` in hexo root directory.
-  rss: https://xcgzs.cn/en/rss.xml
+  rss: https://xcgzs.cn/cn/rss.xml
 
 # The reading progress of post.
 reading_progress:
@@ -539,7 +539,7 @@ valine:
   # Verification code.
   verify: true
   # Comment box placeholder.
-  placeholder: Leave your comments here!
+  placeholder: 在这里留下你的评论吧！
   # Gravatar style.
   avatar: mp
   # Custom comment header.
@@ -551,7 +551,7 @@ valine:
   # Whether to record the commenter IP.
   recordIP: true
   # Optional values: en | zh-cn
-  language: en
+  language: zh-cn
   
   
 

@@ -63,6 +63,7 @@ menu:
 submenu:
   i18n:
     cn: /cn/
+    tw: /tw/
     en: /en/
   # Add item of secondary menu in here.
   # xxx1:
@@ -337,6 +338,7 @@ social:
   # zhihu: https://www.zhihu.com/ || origin:  # wechat: yournumber || fab fa-weixin
   # telegram: yournumber || fab fa-telegram
   qq: tencent://ContactInfo/?subcmd=ViewInfo&puin=0&uin=3032441511 || fab fa-qq
+  gitee: https://gitee.com/schlibra || origin:G
 
 social_setting:
   enable: true
@@ -443,7 +445,7 @@ post_meta:
 post_list:
   # Whether to paginate.
   paginate:
-    home: true
+    home: false
     archives: false
   # Whether to show the cover image of post.
   cover_image:
