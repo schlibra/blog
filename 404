@@ -1,0 +1,1 @@
+<html><script>let lang=navigator.language;if(lang.indexOf("en")>=0){location.href="/en/404/";}else if(lang.indexOf("TW")>=0||lang.indexOf("HK")>=0){location.href="/tw/404/";}else{location.href="/cn/404/";}</script></html>
